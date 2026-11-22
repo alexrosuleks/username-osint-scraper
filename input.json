@@ -1,0 +1,12 @@
+{
+  "usernames": [
+    "nasa"
+  ],
+  "topSites": 500,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

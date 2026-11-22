@@ -1,0 +1,19 @@
+{
+  "name": "username-osint-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Username Search \u2013 Find Accounts on 3,000+ Sites: Search any username across thousands of sites and get every matching profile URL with site, tags and status. No login needed. Export JSON, CSV or Excel",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
